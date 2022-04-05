@@ -1,0 +1,15 @@
+C:\Users\rgrrt\Repos\XatSocols\XatSocolsServer\bin\Debug\net6.0\XatSocolsServer.exe
+C:\Users\rgrrt\Repos\XatSocols\XatSocolsServer\bin\Debug\net6.0\XatSocolsServer.deps.json
+C:\Users\rgrrt\Repos\XatSocols\XatSocolsServer\bin\Debug\net6.0\XatSocolsServer.runtimeconfig.json
+C:\Users\rgrrt\Repos\XatSocols\XatSocolsServer\bin\Debug\net6.0\XatSocolsServer.dll
+C:\Users\rgrrt\Repos\XatSocols\XatSocolsServer\bin\Debug\net6.0\XatSocolsServer.pdb
+C:\Users\rgrrt\Repos\XatSocols\XatSocolsServer\obj\Debug\net6.0\XatSocolsServer.csproj.AssemblyReference.cache
+C:\Users\rgrrt\Repos\XatSocols\XatSocolsServer\obj\Debug\net6.0\XatSocolsServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rgrrt\Repos\XatSocols\XatSocolsServer\obj\Debug\net6.0\XatSocolsServer.AssemblyInfoInputs.cache
+C:\Users\rgrrt\Repos\XatSocols\XatSocolsServer\obj\Debug\net6.0\XatSocolsServer.AssemblyInfo.cs
+C:\Users\rgrrt\Repos\XatSocols\XatSocolsServer\obj\Debug\net6.0\XatSocolsServer.csproj.CoreCompileInputs.cache
+C:\Users\rgrrt\Repos\XatSocols\XatSocolsServer\obj\Debug\net6.0\XatSocolsServer.dll
+C:\Users\rgrrt\Repos\XatSocols\XatSocolsServer\obj\Debug\net6.0\refint\XatSocolsServer.dll
+C:\Users\rgrrt\Repos\XatSocols\XatSocolsServer\obj\Debug\net6.0\XatSocolsServer.pdb
+C:\Users\rgrrt\Repos\XatSocols\XatSocolsServer\obj\Debug\net6.0\XatSocolsServer.genruntimeconfig.cache
+C:\Users\rgrrt\Repos\XatSocols\XatSocolsServer\obj\Debug\net6.0\ref\XatSocolsServer.dll
