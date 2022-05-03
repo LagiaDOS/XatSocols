@@ -35,6 +35,7 @@
             // 
             // textbox_missatge
             // 
+            this.textbox_missatge.AccessibleName = "textboxMissatge";
             this.textbox_missatge.Location = new System.Drawing.Point(12, 404);
             this.textbox_missatge.Name = "textbox_missatge";
             this.textbox_missatge.Size = new System.Drawing.Size(100, 23);
@@ -53,6 +54,7 @@
             // 
             // textboxXat
             // 
+            this.textboxXat.AccessibleName = "textboxXat";
             this.textboxXat.Location = new System.Drawing.Point(12, 12);
             this.textboxXat.Multiline = true;
             this.textboxXat.Name = "textboxXat";
